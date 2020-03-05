@@ -8,6 +8,10 @@ html {
 }
 
 .btn-ghost {
+  background-color: transparent;
+}
+
+.btn-light {
   background-color: lightgreen;
   border-color: lightgreen;
 }
